@@ -1,0 +1,123 @@
+#skillpage {
+  height: auto;
+  width: 60vw;
+  margin: auto;
+  
+  
+  
+}
+.skills {
+  /* border: 1px solid red; */
+  padding: 10px;
+  
+}
+.skills > div:first-child {
+  margin: auto;
+  margin-top: 100px;
+}
+
+.skills > div:last-child {
+  display: flex;
+ 
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  gap: 40px;
+  
+  margin-bottom: 10px;
+}
+.hr{
+   width: 15rem;
+    border: 2px solid #f48915;
+    border-radius: 20%;
+    
+}
+#techStacks:hover{
+ transform: scale(1.3); 
+ transition: 0.8s ease-in-out;
+}
+
+.skills > div:last-child > div {
+  border: 1px solid;
+  height: 180px;
+  width: 160px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+
+.h1skills{
+ text-align: center;
+ color: transparent;
+ font-family: Arial, Helvetica, sans-serif;
+ -webkit-text-stroke-width:1px;
+ -webkit-text-stroke-color: white;
+
+ font-size: 3rem ;
+  
+}
+.skills > div:last-child > div > img {
+  width: 80%;
+  height: 60%;
+  /* padding: 20px; */
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.skills > div:last-child > div > h4 {
+  text-align: center;
+  color: black;
+}
+@media all and (max-width: 600px) {
+  #skillpage {
+    /* background-color: lightblue; */
+    height: 400vh;
+    width: 100vw;
+    margin-bottom: 1000px;
+ padding-left: 20%;
+   
+  }
+  .h1skills{
+    text-align: center;
+    margin-left:600px;
+   }
+}
+@media only screen and (max-width: 1000px) {
+  #skillpage {
+
+    height: 160vh;
+    width: 60vw;
+    margin-left: 10%;
+  }
+  .skills > div > h1 {
+    padding-left: -200px;
+  }
+  .h1skills{
+    /* text-align: center; */
+    margin-left: -80px;
+     padding-bottom: 40px
+   }
+}
+
+@media all and (max-width: 399px) and (min-width: 100px)
+{
+  .skills {
+    
+    padding: 0px;
+    margin-bottom: -100px;
+   
+  }
+
+  #skillpage {
+   
+    margin-top: -50px;
+    
+  }
+}
+
+
+@media screen and (max-width : 768) {
+  
+}
