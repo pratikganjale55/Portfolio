@@ -47,7 +47,7 @@ const ProductList = () => {
               <div id="buttonnn">
                 <a
                   rel="noreferrer"
-                  class="one"
+                  className="one"
                   href="https://github.com/pratikganjale55/FitMealsCLone"
                   target="_blank"
                 >
@@ -56,7 +56,7 @@ const ProductList = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  class="one"
+                  className="one"
                   href="https://flourishing-brigadeiros-066ec5.netlify.app/"
                 >
                   <FaPlay /> Live Link
@@ -67,9 +67,9 @@ const ProductList = () => {
         </div>
 
         {/* ////////////////////////////////        ONNBike         ///////////////////// */}
-        <div class="card">
-          <div class="box" id="boxx">
-            <div class="content" style={{ paddingTop: "30px" }}>
+        <div className="card">
+          <div className="box" id="boxx">
+            <div className="content" style={{ paddingTop: "30px" }}>
               {/* <h2>01</h2> */}
               <div>
                 {" "}
@@ -96,7 +96,7 @@ const ProductList = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  class="one"
+                  className="one"
                   href="https://github.com/pratikganjale55/ONNbikes"
                 >
                   <FaGithub /> Github
@@ -104,7 +104,7 @@ const ProductList = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  class="one"
+                  className="one"
                   href="https://loquacious-biscochitos-48b0b9.netlify.app/"
                 >
                   <FaPlay /> Live Link
@@ -114,9 +114,9 @@ const ProductList = () => {
           </div>
         </div>
              {/* //////////////////////  gymApp /////////////////// */}
-             <div class="card">
-          <div class="box">
-            <div class="content" style={{ marginTop: "30px" }}>
+             <div className="card">
+          <div className="box">
+            <div className="content" style={{ marginTop: "30px" }}>
               {/* <h2>01</h2> */}
               <div >
                 {" "}
@@ -143,7 +143,7 @@ const ProductList = () => {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  class="one"
+                  className="one"
                   href="https://github.com/pratikganjale55/GymApp"
                 >
                   <FaGithub /> Github
@@ -151,7 +151,7 @@ const ProductList = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  class="one"
+                  className="one"
                   href="https://gymappclone.herokuapp.com/"
                 >
                   <FaPlay /> Live Link
@@ -162,9 +162,9 @@ const ProductList = () => {
         </div>
 
         {/* ////////////////////////////////     KFC            ///////////////////// */}
-        <div class="card">
-          <div class="box">
-            <div class="content" style={{ marginTop: "30px" }}>
+        <div className="card">
+          <div className="box">
+            <div className="content" style={{ marginTop: "30px" }}>
               {/* <h2>01</h2> */}
               <div>
                 {" "}
@@ -191,7 +191,7 @@ const ProductList = () => {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  class="one"
+                  className="one"
                   href="https://github.com/pratikganjale55/ProjectFirst"
                 >
                   <FaGithub /> Github
@@ -199,7 +199,7 @@ const ProductList = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  class="one"
+                  className="one"
                   href="https://upbeat-archimedes-96c5f3.netlify.app/index.html"
                 >
                   <FaPlay /> Live Link

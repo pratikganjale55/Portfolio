@@ -31,7 +31,7 @@ const Navbar = () => {
       </Link>
    {
 
-    meanuOpen == false && mobile == true? (
+    meanuOpen === false && mobile === true? (
       <div 
       style={{
         backgroundColor : "var(--appColor)" ,
@@ -40,7 +40,7 @@ const Navbar = () => {
       }}
       onClick={() => setMeanuopen(true)}
       >
-        <img src={bars} style={{ width : "1.5rem", height: "1.5rem"}}/>
+        <img src={bars} style={{ width : "1.5rem", height: "1.5rem"}} alt=""/>
       </div>
     ) : (
       <ul className={styles.menu}>
