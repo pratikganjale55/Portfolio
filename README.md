@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikganjale55" alt="pratikganjale55" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://abhishek-bhosale-portfolio.netlify.app/](https://abhishek-bhosale-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pratikganjale-portfolio.netlify.app/](https://pratikganjale-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on )
 
