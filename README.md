@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Abhishek Bhosale</h1>
+<h1 align="center">Hi 👋, I'm Pratik Ganjale</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekbhosale" alt="abhishekbhosale" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikganjale55" alt="pratikganjale55" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://abhishek-bhosale-portfolio.netlify.app/](https://abhishek-bhosale-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@abhishekbhosale1025](https://medium.com/@abhishekbhosale1025)
+- 📝 I regularly write articles on )
 
-- 📫 How to reach me **abhishekbhosale1025@gmail.com**
+- 📫 How to reach me **pratikganjale55@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10hmZjj_8caclKCf4WEP0CoUM2mL9mTcA/view](https://drive.google.com/file/d/10hmZjj_8caclKCf4WEP0CoUM2mL9mTcA/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_lwFIRUDU3co8bKa5jdeBqrc4rJGzDGa/view?usp=sharing](https://drive.google.com/file/d/1_lwFIRUDU3co8bKa5jdeBqrc4rJGzDGa/view?usp=sharing)
 
-- ⚡ Fun fact **I am Poet , Shayar**
+- ⚡ Fun fact **I like Painting , Reading, Visit new places**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-bhosale-600921117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-bhosale-600921117/" height="30" width="40" /></a>
-<a href="https://medium.com/@abhishekbhosale1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhishekbhosale1025" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratik-ganjale-4920aa166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-ganjale-4920aa166/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
