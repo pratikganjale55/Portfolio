@@ -152,7 +152,7 @@ const ProductList = () => {
                   rel="noreferrer"
                   target="_blank"
                   className="one"
-                  href="https://gymappclone.herokuapp.com/"
+                  href="https://tangerine-flan-9180b2.netlify.app/"
                 >
                   <FaPlay /> Live Link
                 </a>
